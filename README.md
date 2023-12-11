@@ -3,7 +3,7 @@ Soundcard Latency
 ## 示意图
 这个工具是我同事写的，但是没有示意图，有时候我也经常忘记这个工具怎么使用，我画了一个示意图
 
-![image](https://github.com/weiqifa0/soundcard-latency/assets/11375905/af82c3e4-643d-4be5-bf71-855f53d4c06b)
+![image](https://github.com/weiqifa0/soundcard-latency/assets/11375905/30ee4717-67ad-4da5-aa41-3ac30c401e1d)
 
 
 
