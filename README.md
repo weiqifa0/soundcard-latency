@@ -22,6 +22,10 @@ Download the application from [![build](https://github.com/xiongyihui/soundcard-
 + python-sounddevice
 + samplerate
 + matplotlib
++ pip3 install numpy
++ pip3 install matplotlib
++ pip3 install samplerate
++ pip3 install sounddevice
 
 ### Get started with `latency.py`
 +   Measure the default input and output devices.
